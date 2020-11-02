@@ -4,4 +4,4 @@ print ("This is git test")
 
 print ("This is git test")
 
-test maning guys
+print ("test maning guys")
